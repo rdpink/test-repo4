@@ -1,5 +1,14 @@
 # test-repo4
+<<<<<<< HEAD
 change
 change
 change
 change
+=======
+change another change
+
+djkfjakjdfkaj
+One line
+asdfkjadsklf
+lasdkfjasdklfj
+>>>>>>> c150b55... test
