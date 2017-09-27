@@ -15,5 +15,6 @@ update GlobalSettings
 set [GlobalSettingsXml].modify('replace value of (/GlobalSettings/SmtpSettings/SmtpServer/text())[1] with ''invalid''')
 
 update GlobalSettings
+  set GlobalSettingsOther('test')
 set GlobalSettingsXml.modify('
  delete /GlobalSettings/ZendeskSettings[1]')
