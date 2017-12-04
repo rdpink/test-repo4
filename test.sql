@@ -57,15 +57,15 @@ Elseif
 Elseif
 hange another change
 
-djkfjakjdfkaj
+if [djkfjakjdfkaj
 One line
 asdfkjadsklf
 asdfkjadsklf
 Here’s another change
 lasdkfjasdklfj
-adsfas
+adsfas]
 Change on OSX
 2nd change on OSX
 Testing 3rd change
 Elseif
-Elseif
+Elseif end
