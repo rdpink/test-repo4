@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test-repo4
 change another change
 
@@ -134,15 +135,36 @@ djkfjakjdfkaj
 asdfkjadsklf
 lasdkfjasdklfj
 test
+=======
+# test-repo4
+adfadsfasdfasdfasdfa
+change another changefdfgdfsgdfg
+
+djkfjakjdfkaj
+asdfkjadsklf
+lasdkfjasdklfjfdsadf
+Sdfgdsfgsdg
+
+
+Adsfasdfasdfasdf
+Adsfadsfasdfadsf
+
+>>>>>>> master
 
 djkfjakjdfkaj
 asdfkjadsklf
 lasdkfjasdklfjasdf
+<<<<<<< HEAD
 test
+=======
+Sdfgdsfgsdg
+
+>>>>>>> master
 
 djkfjakjdfkaj
 asdfkjadsklf
 lasdkfjasdklfj
+<<<<<<< HEAD
 testdjkfjakjdfkaj
 asdfkjadsklf
 lasdkfjasdklfj
@@ -172,3 +194,13 @@ djkfjakjdfkaj
 asdfkjadsklf
 lasdkfjasdklfj
 test
+=======
+Sdfgdsfgsdg
+
+
+
+djkfjakjdfkaj
+asdfkjadsklfasdfs
+lasdkfjasdklfj
+Sdfgdsfgsdg
+>>>>>>> master

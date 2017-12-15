@@ -1,0 +1,6 @@
+
+*.png
+
+\.DS_Store
+\test_folder
+\Ignore
