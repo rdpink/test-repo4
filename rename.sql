@@ -8,7 +8,7 @@ where userid = 1
 update EmailAccounts
 set IsActive = 0
 
-update GlobalSettings
+update GlobalSettings test
 set [GlobalSettingsXml].modify('replace value of (/GlobalSettings/SmtpSettings/EmailQueueMaxSendAttempts/text())[1] with ''0''')
 
 update GlobalSettings
