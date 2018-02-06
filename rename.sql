@@ -1,10 +1,10 @@
 update users
 set password = 'QBlD5jzPE/RF42H3vqi/WBVilaocX7bVvg==',
 loginid = 'admin',
-IsActive = 1,
+IsActive = 0,
 IsLocked = 0
 where userid = 1
-AND IsLocked = NULL
+AND IsActive = NULL
 
 update EmailAccounts
 set IsActive = 0
