@@ -4,6 +4,7 @@ loginid = 'admin',
 IsActive = 1,
 IsLocked = 0
 where userid = 1
+AND IsLocked = NULL
 
 update EmailAccounts
 set IsActive = 0
