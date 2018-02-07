@@ -1,120 +1,141 @@
-﻿define(function ()
+﻿/**
+ * Created by LFritsch on 09.02.2017.
+ */
+define(function (require)
 {
-    return SoapClient;
-});
-
-SoapClient =
-    {
-        HostUrl: "",    // http://localhost:8080/2Charta-DMS/CServer
-        NameSpace: "",  // http://webservice.cserver.j2c.lorenz.de/
-        RESTSuffix: "/rest/",
-
-        /**
-         * Prepares a webservice request based on a DataProvider-Object
-         * Generates the XML an calls fn_SendRequest()
-         * @param {object} request  An object based on DataProvider-Objects
-         */
-        fn_PrepareRequest: function (request)
+    var ralfService = new (require("./RALFService/_ralfService"));
+    var restService =
         {
-            var requestResponse;
-            var requestName = "";
-            var requestCallback;
-            var wrapperObject;
-            var propName;
+            HostUrl: "",    // http://localhost:8080/2Charta-DMS/CServer
+            NameSpace: "",  // http://webservice.cserver.j2c.lorenz.de/
+            RESTSuffix: "/rest/",
 
-            if (request)
+            /**
+             * Prepares a webservice request based on a DataProvider-Object
+             * Generates the XML an calls fn_SendRequest()
+             * @param {object} request  An object based on DataProvider-Objects
+             */
+            fn_PrepareRequest: function (request)
             {
-                // Read out all the Webmethod's properties
-                for (propName in request)
+                var requestResponse;
+                var requestName = "";
+                var requestCallback;
+                var wrapperObject;
+                var propName;
+
+                if (request && !Config.isOfflineMode)
                 {
-                    // Only process fixed properties and arguments, no functions!
-                    if (request.hasOwnProperty(propName))
+                    // Read out all the Webmethod's properties
+                    for (propName in request)
                     {
-                        // Collect the Response-Type
-                        if (propName === "request_Response")
+                        // Only process fixed properties and arguments, no functions!
+                        if (request.hasOwnProperty(propName))
                         {
-                            requestResponse = request[propName];
-                            // Collect the Request-Name
-                        } else if (propName === "request_Name")
-                        {
-                            requestName = request[propName];
-                            // Collect the Callback-Function
-                        } else if (propName === "request_Callback")
-                        {
-                            requestCallback = request[propName];
-                            // Collect and build the Wrapper-Object
-                        } else if (UTIL.fn_HasOwnWebserviceProperty(request, propName))
-                        {
-                            wrapperObject = request[propName];
-                            if (wrapperObject.hasOwnProperty && wrapperObject.hasOwnProperty("fn_ConvertToJSON"))
+                            // Collect the Response-Type
+                            if (propName === "request_Response")
                             {
-                                wrapperObject = wrapperObject.fn_ConvertToJSON();
+                                requestResponse = request[propName];
+                                // Collect the Request-Name
+                            } else if (propName === "request_Name")
+                            {
+                                requestName = request[propName];
+                                // Collect the Callback-Function
+                            } else if (propName === "request_Callback")
+                            {
+                                requestCallback = request[propName];
+                                // Collect and build the Wrapper-Object
+                            } else if (UTIL.fn_HasOwnWebserviceProperty(request, propName))
+                            {
+                                wrapperObject = request[propName];
+                                if (wrapperObject.hasOwnProperty && wrapperObject.hasOwnProperty("fn_ConvertToJSON"))
+                                {
+                                    wrapperObject = wrapperObject.fn_ConvertToJSON();
+                                }
                             }
                         }
                     }
-                }
 
-                // Proceed sending the Request
-                if (requestName && requestResponse)
-                {
-                    SoapClient.fn_Send_Request(requestName, wrapperObject, function (responseJSON, was_successfull)
+                    // Proceed sending the Request
+                    if (requestName && requestResponse)
                     {
-                        if (was_successfull)
+                        restService.fn_Send_Request(requestName, wrapperObject, function (responseJSON, was_successfull)
                         {
-                            // Process the response and populate the return-object of the response
-                            try
+                            // Log Response, if Debug-Mode is active
+                            if (GLOBAL_REST_DEBUG === true && requestName !== "REST_IsServerAvail")
                             {
-                                requestResponse.return.fn_RebaseOnJSON(responseJSON);
-                            } catch (e)
-                            {
-                                Log.fn_Log(e, ENUMS.LOG_LEVEL.ERROR);
+                                console.log("REST-Debug RESPONSE for " + requestName + ": " + JSON.stringify(responseJSON));
                             }
-                            requestCallback(requestResponse)
-                        } else
-                        {
-                            requestCallback(responseJSON.responseText, true)
-                        }
-                    });
-                }
-            }
-        },
 
-        /**
-         * Sends a REST-webservice-request to the specified Host
-         * @param {string} method_name          Name of the method being called
-         * @param {JSON} wrapper_object         Stringified JSON-Representation of the parameter's wrapping-object
-         * @param {function} fn_callback        Function being called on responses
-         */
-        fn_Send_Request: function (method_name, wrapper_object, fn_callback)
-        {
-            // Call the webservice
-            if(GLOBAL_REST_DEBUG === true && method_name !== "REST_IsServerAvail")
-            {
-                console.log("REST-Debug WrapperJSON: " + wrapper_object);
-            }
-            try
-            {
-                $.ajax(
+                            if (was_successfull)
+                            {
+                                // Process the response and populate the return-object of the response
+                                try
+                                {
+                                    requestResponse.return.fn_RebaseOnJSON(responseJSON);
+                                } catch (e)
+                                {
+                                    Log.fn_Log(e, ENUMS.LOG_LEVEL.ERROR);
+                                }
+                                requestCallback(requestResponse)
+                            } else
+                            {
+                                requestCallback(responseJSON && responseJSON.responseText ? responseJSON.responseText : {return: null}, true)
+                            }
+                        });
+                    }
+                } else if (request && Config.isOfflineMode)
+                {
+                    // If the Client runs in Offline-Mode, reroute the Request to the RALF-Service
+                    request.request_Name = request.request_Name.replace("REST_", "");
+                    if (ralfService.fn_HasLocalAdapterForRequest(request.request_Name))
                     {
-                        url: SoapClient.HostUrl + SoapClient.RESTSuffix + method_name + "/",
-                        data: wrapper_object,
-                        dataType: "json",
-                        contentType: "text/plain; charset=UTF-8",
-                        type: "POST",
-                        success: function (response)
-                        {
-                            fn_callback(response, true);
-                        },
-                        error: function (response)
-                        {
-                            fn_callback(response, false);
-                        }
-                    });
-            } catch (e)
-            {
-                Log.fn_Log(e, ENUMS.LOG_LEVEL.ERROR);
-                fn_callback(null, false);
-            }
+                        ralfService.fn_RouteWebserviceRequest(request);
+                    }
+                }
+            },
 
-        }
-    };
+            /**
+             * Sends a REST-webservice-request to the specified Host
+             * @param {string} method_name          Name of the method being called
+             * @param {JSON} wrapper_object         Stringified JSON-Representation of the parameter's wrapping-object
+             * @param {function} fn_callback        Function being called on responses
+             */
+            fn_Send_Request: function (method_name, wrapper_object, fn_callback)
+            {
+                // Call the webservice
+                if (GLOBAL_REST_DEBUG === true && method_name !== "REST_IsServerAvail")
+                {
+                    console.log("REST-Debug WrapperJSON: " + wrapper_object);
+                }
+                try
+                {
+                    $.ajax(
+                        {
+                            url: restService.HostUrl + restService.RESTSuffix + method_name + "/",
+                            data: wrapper_object,
+                            dataType: "json",
+                            contentType: "text/plain; charset=UTF-8",
+                            type: "POST",
+                            success: function (response)
+                            {
+                                fn_callback(response, true);
+                            },
+                            error: function (response)
+                            {
+                                fn_callback(response ? response : {return: null}, false);
+                            }
+                        });
+                } catch (e)
+                {
+                    Log.fn_Log(e, ENUMS.LOG_LEVEL.ERROR);
+                    fn_callback(null, false);
+                }
+
+            }
+        };
+
+    // Initialize the RALF-Service
+    ralfService.fn_InitializeAdapters();
+
+    return restService;
+});
