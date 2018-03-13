@@ -1498,7 +1498,7 @@ namespace SRK.Crm.Main.CrmServices.CrmServiceFacade
                     {
                         Contact donor = dataAccess.GetContactByMobile(donation.DonorInfo.MobilePhone);
 
-                        if (donor != null) { 
+                        if (donor != testMerge) { 
                             dataAccess.HandleSMS_STOPP(donor, donation.DonationDate);
                         }
                         else { 
