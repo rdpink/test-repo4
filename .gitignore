@@ -6,3 +6,5 @@
 \Ignore
 packages
 [Pp]ackages/
+!/packages/*/lib/*.dll
+!/packages/*/lib/*/*.dll
