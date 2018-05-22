@@ -1,0 +1,1346 @@
+# aaaaaa_aaaaaa_aaaaaaa: aaaa
+
+# aaaaaaa:aaaaaaa aaaaaa/aaaaaaaaaaaaaaa
+# aaaaaaa:aaaaaaa aaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+# aaaaaaa:aaaaaaa aaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+# aaaaaaa:aaaaaaa aaaaaaa/aaaaaaaaaaa, aaaaaaa/aaaaaaaaaaa
+# aaaaaaa:aaaaaaa aaaaa/aaaaaaaaaaaaa
+
+aaaaaaa "aaaa_aaaaaa"
+
+aaaaa aaaaaaaaaaaaaaa < aaaaaaaaaaaaa::aaaaaaaa
+  # aaaa: aaaaaaaa aaaa aaaa aaa aaa_aaaa aaaaa.
+  aaaaa aaaaaaaaaaaaa < aaaaaaa
+  aaa
+
+  aaaa "aaaaa_aaaaa_aaaaaaaaaa aaaaa aa aaaaaaaa" aa
+    aa_aaaaaa = [
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+     )
+    ]
+
+    aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+      aa_aaaaaa: aa_aaaaaa,
+      aaaaaaaa_aaaaaa: aaaaaaa_aaaaaaaa_aaaaaa,
+      aaaa_aaaaaa: aaaaaaaa_aaaa_aaaaaa(aaaaa: 11),
+      a_aaaaa_aaaaaa: { "aa" => 1.11111, "aa" => 1.1111, "aaaaaaa" => 1.111111111111111111 },
+      a_aaaaa_aaaaaa: { "aaaaaaa" => 1 },
+      aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+      aaaa_aaaaa: 11
+    )
+
+    aaaaaaaa_aaaaaaa = { aa: 1_111_111, aa: 1_111_111, aa: 1_111_111 }
+
+    aaaaaaa = aaaaaaaaaaaaa.aaa
+    aaaaaa_aaaaaaa = aaaaaaa.aaaa(:aaaaa_aaaaa_aaaaaaaaaa, aaaaa: aaaa_aaaaa)
+
+    aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aaaaaa_aaaaaaa)
+
+    # aaaaaa aaa aaaa_aaaaa aaa aaa aaaaaaaa.
+    aaaaaa_aaa(aaaa_aaaaa.aaaaaaa?)
+  aaa
+
+  aaaa "aaaa_aaaaaaa! aaaaa aa aaaaaaaa aaaa aaaaaaaaaa aa aaaaaa" aa
+    aa_aaaaaa = [
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+     )
+    ]
+    aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+      aa_aaaaaa: aa_aaaaaa,
+      aaaa_aaaaaa: aaaaaaaa_aaaa_aaaaaa(aaaaa: 1),
+      a_aaaaa_aaaaaa: {},
+      a_aaaaa_aaaaaa: {},
+      aaaaa_aaaa: aaaa.aaaaa("1111-11-11")
+    )
+    aaaaaa = 11_111_111
+
+    aaaaaaaa_aaaaaaa = { aa: 11_111_111, aa: 1, aa: 11_111_111 }
+
+    aaaaaaaaaaaaa.aaa.aaaa(
+      :aaaa_aaaaaaa!,
+      aaaaa: aaaa_aaaaa,
+      aaaaaaaa_aa: :aaaaaa,
+      aaaaaa: aaaaaa
+    )
+
+    aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aa_aaaaaa)
+  aaa
+
+  aaaa "aaaa_aaaaaaa! aaaaa aa aaaaaaaa aaaa aaaaaaaaaa aa a aaaaaa" aa
+    aa_aaaaaa = [
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      )
+    ]
+    aaaaaaaa_aaaaaa = [
+      aaaaa(:aaaaaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 11.111111111111111,
+        aaaaaaaaaaa: 11_111.111111111111
+      ),
+      aaaaa(:aaaaaaaa_aaaaa,
+        aaaa: "aa", # aaaaaaaa
+        aaaaaa: 11.111111111111111,
+        aaaaaaaaaaa: 1111.1111111111111
+      ),
+      aaaaa(:aaaaaaaa_aaaaa,
+        aaaa: "aa", # aaa aa aaaa
+        aaaaaa: 11.1,
+        aaaaaaaaaaa: 1111.11
+      ),
+      aaaaa(:aaaaaaaa_aaaaa,
+        aaaa: "aa", # aaaaa
+        aaaaaa: 11,
+        aaaaaaaaaaa: 1111.11111
+      ),
+      aaaaa(:aaaaaaaa_aaaaa,
+        aaaa: "aa", # aaaaaaa
+        aaaaaa: 11.11111111111111,
+        aaaaaaaaaaa: 1111.1
+      )
+    ]
+    aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+      aa_aaaaaa: aa_aaaaaa,
+      aaaaaaaa_aaaaaa: aaaaaaaa_aaaaaa,
+      aaaa_aaaaaa: aaaaaaaa_aaaa_aaaaaa(aaaaa: 11),
+      a_aaaaa_aaaaaa: {},
+      a_aaaaa_aaaaaa: {},
+      aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+      aaaa_aaaaa: 11
+    )
+    aaaaaa = 1_111_111
+
+    # aaaa: aaaa aaaaaaaaaaa aaaaaaa aaa aaaaaaaa aaaaaaaaaa aaaaaaaaaaaaaa
+    #   aaa aa aaaaa aa aaaaaa aa aaaaaa a aaaaaa aa 1_111_111 aaaaaaa aa
+    #   1_111_111.
+    aaaaaaaa_aaaaaaa = {
+      aa: 1,
+      aa: 1_111_111,
+      aa: 1_111_111,
+      aa: 1_111_111,
+      aa: 1_111_111
+    }
+
+    aaaaaaaaaaaaa.aaa.aaaa(
+      :aaaa_aaaaaaa!,
+      aaaaa: aaaa_aaaaa,
+      aaaaaaaa_aa: :aaa,
+      aaaaaa: aaaaaa
+    )
+
+    aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aa_aaaaaa)
+  aaa
+
+  aaaa "aaaaaaaa_aaaaa_aaa aaaaa aa aaaaaaaa aaaa `aaaaaaaa_aa_aaaa_aaaa: aaaaa`" aa
+    aa_aaaaaa = [
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+     )
+    ]
+    aaaaaaaa_aa_aaaa_aaaa = aaaaa
+    aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+      aa_aaaaaa: aa_aaaaaa,
+      aaaaaaaa_aaaaaa: aaaaaaa_aaaaaaaa_aaaaaa,
+      aaaa_aaaaaa: aaaaaaaa_aaaa_aaaaaa(aaaaa: 11),
+      a_aaaaa_aaaaaa: { "aa" => 1.11111, "aa" => 1.1111, "aaaaaaa" => 1.111111111111111111 },
+      a_aaaaa_aaaaaa: { "aaaaaaa" => 1 },
+      aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+      aaaa_aaaaa: 11
+    )
+    aaaaaa = 11_111_111
+
+    aaaaaaaa_aaaaaaa = { aa: 1_111_111, aa: 1_111_111, aa: 1_111_111 }
+
+    aaaaaa_aaaaaaa = aaaaaaaaaaaaa.aaa.aaaa(
+      :aaaaaaaa_aaaaa_aaa,
+      aaaaa: aaaa_aaaaa,
+      aaaaaaaa_aa_aaaa_aaaa: aaaaaaaa_aa_aaaa_aaaa,
+      aaaaaa: aaaaaa
+    )
+
+    aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aaaaaa_aaaaaaa)
+  aaa
+
+  x aaaa "aaaaaaaa_aaaaa_aaa aaaaa aa aaaaaaaa aaaa `aaaaaaaa_aa_aaaa_aaaa: aaaa`" aa
+  x   aa_aaaaaa = [
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x    )
+  x   ]
+  x   aaaaaaaa_aa_aaaa_aaaa = aaaa
+  x   aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+  x     aa_aaaaaa: aa_aaaaaa,
+  x     aaaaaaaa_aaaaaa: aaaaaaa_aaaaaaaa_aaaaaa,
+  x     aaaa_aaaaaa: aaaaaaaa_aaaa_aaaaaa(aaaaa: 11),
+  x     a_aaaaa_aaaaaa: { "aa" => 1.11111, "aa" => 1.1111, "aaaaaaa" => 1.111111111111111111 },
+  x     a_aaaaa_aaaaaa: { "aaaaaaa" => 1 },
+  x     aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+  x     aaaa_aaaaa: 11
+  x   )
+  x   aaaaaa = 11_111_111
+
+  x   aaaaaaaa_aaaaaaa = { aa: 1_111_111, aa: 1_111_111, aa: 1_111_111 }
+
+  x   aaaaaa_aaaaaaa = aaaaaaaaaaaaa.aaa.aaaa(
+  x     :aaaaaaaa_aaaaa_aaa,
+  x     aaaaa: aaaa_aaaaa,
+  x     aaaaaaaa_aa_aaaa_aaaa: aaaaaaaa_aa_aaaa_aaaa,
+  x     aaaaaa: aaaaaa
+  x   )
+
+  x   aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aaaaaa_aaaaaaa)
+  x aaa
+
+  x aaaa "aaaaaaaa_aaaaaaa_aaaaaaaaaa aaa aa aaaa aaaaaaa" aa
+  x   aa_aaaaaa = [aaaaa(:aaaaaaaa_aaaaa_aaaaa, aaaa: "aaa")]
+  x   aaaaaaaa_aaaaaa = [aaaaa(:aaaaaaaa_aaaaa, aaaa: "aaa")]
+  x   aaaa_aaaaaa = aaaaaaaa_aaaa_aaaaaa(aaaaa: 1)
+  x   a_aaaaa_aaaaaa = {}
+  x   a_aaaaa_aaaaaa = {}
+  x   aaaaa_aaaa = aaaa.aaaaa("1111-11-11")
+
+  x   aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+  x     aa_aaaaaa:       aaaaaaa.aaaa_aaaaaa(aa_aaaaaa),
+  x     aaaaaaaa_aaaaaa: aaaaaaa.aaaa_aaaaaa(aaaaaaaa_aaaaaa),
+  x     aaaa_aaaaaa:     aaaaaaa.aaaa_aaaaaa(aaaa_aaaaaa),
+  x     a_aaaaa_aaaaaa:  aaaaaaa.aaaa_aaaaaa(a_aaaaa_aaaaaa),
+  x     a_aaaaa_aaaaaa:  aaaaaaa.aaaa_aaaaaa(a_aaaaa_aaaaaa),
+  x     aaaaa_aaaa:      aaaaaaa.aaaa_aaaaaa(aaaaa_aaaa)
+  x   ).aaaaaa
+
+  x   aaaaaaa = {
+  x     aaaaa: aaaa_aaaaa,
+  x     aaaaaaaa_aa: :aaaaaa,
+  x     aaaaaa: 1_111_111
+  x   }
+  x   aaaaaaaaaaaaa.aaa.aaaa(:aaaaaaaa_aaaaaaa_aaaaaaaaaa, aaaaaaa)
+
+  x   # aaaa aaaaaaa aa aa aaaaaaaa aaaaaaaaa aaaa aaaa.
+  x   aaaaaaa[:aaaaaaaa_aa] = :aaa
+  x   aaaaaaaaaaaaa.aaa.aaaa(:aaaaaaaa_aaaaaaa_aaaaaaaaaa, aaaaaaa)
+
+  x   # aa aaaaa aaa aa aaaaaa: aaa aaa!
+  x aaa
+
+  x aaaa "aaaaaaaa_aaaaaaa_aaaaaaaaaa aaaaa aa aaaaaaaa aaaa aaaaaaaaaa aa aaaaaa" aa
+  x   aa_aaaaaa = [
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1_111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1_111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1_111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x    )
+  x   ]
+  x   aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+  x     aa_aaaaaa: aa_aaaaaa,
+  x     aaaaaaaa_aaaaaa: aaaaaaa_aaaaaaaa_aaaaaa,
+  x     aaaa_aaaaaa: aaaaaaaa_aaaa_aaaaaa(aaaaa: 11),
+  x     a_aaaaa_aaaaaa: { "aa" => 1.11111, "aa" => 1.1111, "aaaaaaa" => 1.111111111111111111 },
+  x     a_aaaaa_aaaaaa: { "aaaaaaa" => 1 },
+  x     aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+  x     aaaa_aaaaa: 11
+  x   )
+  x   aaaaaa = 11_111_111
+
+  x   aaaaaaaa_aaaaaaa = {
+  x     aa:     1_111_111,
+  x     aa:     1_111_111,
+  x     aa:     1_111_111,
+  x     aaaaa: 11_111_111
+  x   }
+
+  x   aaaaaa_aaaaaaa = aaaaaaaaaaaaa.aaa.aaaa(
+  x     :aaaaaaaa_aaaaaaa_aaaaaaaaaa,
+  x     aaaaa: aaaa_aaaaa,
+  x     aaaaaaaa_aa: :aaaaaa,
+  x     aaaaaa: aaaaaa
+  x   )["aaaaaaa"]
+
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaaaa[:aaaaa], aaaaaa_aaaaaaa["aaaaa"])
+  x   aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aaaaaa_aaaaaaa)
+  x aaa
+
+  x aaaa "aaaaaaaa! aaaaa aa aaaaaaaa aaaa `aaaaaaaa_aa_aaaa_aaaa: aaaaa`" aa
+  x   aaaaaaaa_aaaaaa = aaaaaaa_aaaaaaaa_aaaaaa
+  x   aa_aaaaaa = [
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1_111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1_111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1_111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x    )
+  x   ]
+  x   aaaaaaaa_aa = :aaaaaa
+  x   aaaaaaaa_aa_aaaa_aaaa = aaaaa
+  x   aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+  x     aa_aaaaaa: aa_aaaaaa,
+  x     aaaaaaaa_aaaaaa: aaaaaaaa_aaaaaa,
+  x     aaaa_aaaaaa: aaaaaaaa_aaaa_aaaaaa(aaaaa: 11),
+  x     a_aaaaa_aaaaaa: { "aa" => 1.11111, "aa" => 1.1111, "aaaaaaa" => 1.111111111111111111 },
+  x     a_aaaaa_aaaaaa: { "aaaaaaa" => 1 },
+  x     aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+  x     aaaa_aaaaa: 11
+  x   )
+  x   aaaaaa = 11_111_111
+
+  x   aaaaaaaa_aaaaaa_aaaaaaaaaa = {
+  x     aaaa: {
+  x       aa: 1111.1111111111111,
+  x       aa: 1111.1111111111111,
+  x       aa: 1111.111111111111
+  x     },
+  x     aaaaa: {
+  x       aa: -1111.111111111111,
+  x       aa: -1111.1111111111111,
+  x       aa: -1111.11111111111
+  x     }
+  x   }.aaaa_aaaaaaaaa_aaaa
+  x   aaaaaaaa_aaaaa_aaaa = {
+  x     aa: {
+  x       aaaaa: 111_111.11111111111,
+  x       aaaaa: 11
+  x     },
+  x     aa: {
+  x       aaaaa: 1_111.111111111,
+  x       aaaaa: 11
+  x     },
+  x     aa: {
+  x       aaaaa: 1_111_111.111111111,
+  x       aaaaa: 111
+  x     }
+  x   }.aaaa_aaaaaaaaa_aaaa
+  x   aaaaaaaa_aaaaaaa = {
+  x     aa:     1_111_111,
+  x     aa:     1_111_111,
+  x     aa:     1_111_111,
+  x     aaaaa: 11_111_111
+  x   }
+  x   aaaaaaaa_aaaa = {"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.1111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}}} # aaaaaaa:aaaaaaa aaa
+
+  x   aaaaaaa = aaaaaaaaaaaaa.aaa
+  x   aaaaaaa.aaaaaaaa!(
+  x     aaaaaa: [aaaa_aaaaa],
+  x     aaaaaaaa_aa: aaaaaaaa_aa,
+  x     aaaaaaaa_aa_aaaa_aaaa: aaaaaaaa_aa_aaaa_aaaa,
+  x     aaaaaa: aaaaaa
+  x   )
+
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaaaa[:aaaaa], aaaaaaa.aaaaaa)
+  x   aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aaaaaaa.aaaaaaaa_aaaaa_aaaaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaaa_aaaaaaaaaa, aaaaaaa.aaaaaa_aaaaaaaaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaa_aaaa, aaaaaaa.aaaaa_aaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaa, aaaa_aaaaa)
+  x aaa
+
+  x aaaa "aaaaaaaa! aaaaa aa aaaaaaaa aaaa `aaaaaaaa_aa_aaaa_aaaa: aaaa`" aa
+  x   aa_aaaaaa = [
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1_111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1_111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1_111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x    )
+  x   ]
+  x   aaaaaaaa_aaaaaa = aaaaaaa_aaaaaaaa_aaaaaa
+  x   aaaaaaaa_aa = :aaaaaa
+  x   aaaaaaaa_aa_aaaa_aaaa = aaaa
+  x   aaaa_aaaaaa = aaaaaaaa_aaaa_aaaaaa(aaaaa: 11)
+  x   aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+  x     aa_aaaaaa: aa_aaaaaa,
+  x     aaaaaaaa_aaaaaa: aaaaaaaa_aaaaaa,
+  x     aaaa_aaaaaa: aaaa_aaaaaa,
+  x     a_aaaaa_aaaaaa: { "aa" => 1.11111, "aa" => 1.1111, "aaaaaaa" => 1.111111111111111111 },
+  x     a_aaaaa_aaaaaa: { "aaaaaaa" => 1 },
+  x     aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+  x     aaaa_aaaaa: 11
+  x   )
+  x   aaaaaa = 11_111_111
+
+  x   aaaaaaaa_aaaaaa_aaaaaaaaaa = {
+  x     aaaa: {
+  x       aa: 1111.111111111111,
+  x       aa: 1111.1111111111111,
+  x       aa: 1111.1111111111111
+  x     },
+  x     aaaaa: {
+  x       aa: -1111.111111111111,
+  x       aa: -1111.1111111111111,
+  x       aa: -1111.1111111111111
+  x     }
+  x   }.aaaa_aaaaaaaaa_aaaa
+  x   aaaaaaaa_aaaaa_aaaa = {
+  x     aa: {
+  x       aaaaa: 111_111.1111111111,
+  x       aaaaa: 11
+  x     },
+  x     aa: {
+  x       aaaaa: 1111.111111111111,
+  x       aaaaa: 11
+  x     },
+  x     aa: {
+  x       aaaaa: 1_111_111.1111111111,
+  x       aaaaa: 111
+  x     }
+  x   }.aaaa_aaaaaaaaa_aaaa
+  x   aaaaaaaa_aaaaaaa = {
+  x     aa:     1_111_111,
+  x     aa:     1_111_111,
+  x     aa:     1_111_111,
+  x     aaaaa: 11_111_111
+  x   }
+  x   aaaaaaaa_aaaa = {"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.1111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.1111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.1111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}}}
+
+  x   aaaaaaa = aaaaaaaaaaaaa.aaa
+  x   aaaaaaa.aaaaaaaa!(
+  x     aaaaaa: [aaaa_aaaaa],
+  x     aaaaaaaa_aa: aaaaaaaa_aa,
+  x     aaaaaaaa_aa_aaaa_aaaa: aaaaaaaa_aa_aaaa_aaaa,
+  x     aaaaaa: aaaaaa
+  x   )
+
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaaaa[:aaaaa], aaaaaaa.aaaaaa)
+  x   aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aaaaaaa.aaaaaaaa_aaaaa_aaaaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaaa_aaaaaaaaaa, aaaaaaa.aaaaaa_aaaaaaaaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaa_aaaa, aaaaaaa.aaaaa_aaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaa, aaaa_aaaaa)
+  x aaa
+
+  x aaaa "aaaaaaaa! aaaaa aa aaaaaaaa aaaa aa aaaaaaaaaa aaaaaa" aa
+  x   aa_aaaaaa = [
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1_111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1_111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1_111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x    )
+  x   ]
+  x   aaaaaaaa_aa = :aaaaaa
+  x   aaaaaaaa_aa_aaaa_aaaa = aaaaa
+  x   aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+  x     aa_aaaaaa: aa_aaaaaa,
+  x     aaaaaaaa_aaaaaa: aaaaaaa_aaaaaaaa_aaaaaa,
+  x     aaaa_aaaaaa: aaaaaaaa_aaaa_aaaaaa(aaaaa: 11),
+  x     a_aaaaa_aaaaaa: { "aa" => 1.11111, "aa" => 1.1111, "aaaaaaa" => 1.111111111111111111 },
+  x     a_aaaaa_aaaaaa: { "aaaaaaa" => 1 },
+  x     aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+  x     aaaa_aaaaa: 11
+  x   )
+  x   aaaaaa = 11_111_111
+
+  x   aaaaaaaa_aaaaaa_aaaaaaaaaa = {
+  x     aaaa: {
+  x       aa: 1111.11111111111,
+  x       aa: 1111.1111111111111,
+  x       aa: 1111.111111111111
+  x     },
+  x     aaaaa: {
+  x       aa: -1111.1111111111111,
+  x       aa: 1,
+  x       aa: -1111.111111111111
+  x     }
+  x   }.aaaa_aaaaaaaaa_aaaa
+  x   aaaaaaaa_aaaaa_aaaa = {
+  x     aa: {
+  x       aaaaa: 111_111.111111111,
+  x       aaaaa: 11
+  x     },
+  x     aa: {
+  x       aaaaa: 1,
+  x       aaaaa: 1
+  x     },
+  x     aa: {
+  x       aaaaa: 1_111_111.1111111111,
+  x       aaaaa: 111
+  x     }
+  x   }.aaaa_aaaaaaaaa_aaaa
+  x   aaaaaaaa_aaaaaaa = {
+  x     aa:     1_111_111,
+  x     aa:     1,
+  x     aa:     1_111_111,
+  x     aaaaa: 11_111_111
+  x   }
+  x   aaaaaaaa_aaaa = {"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.1111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.1111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}}}
+
+  x   aaaaaaa = aaaaaaaaaaaaa.aaa
+  x   aaaaaaa.aaaaaaaa!(
+  x     aaaaaa: [aaaa_aaaaa],
+  x     aaaaaaaa_aa: aaaaaaaa_aa,
+  x     aaaaaaaa_aa_aaaa_aaaa: aaaaaaaa_aa_aaaa_aaaa,
+  x     aaaaaa: aaaaaa
+  x   )
+
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaaaa[:aaaaa], aaaaaaa.aaaaaa)
+  x   aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aaaaaaa.aaaaaaaa_aaaaa_aaaaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaaa_aaaaaaaaaa, aaaaaaa.aaaaaa_aaaaaaaaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaa_aaaa, aaaaaaa.aaaaa_aaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaa, aaaa_aaaaa)
+  x aaa
+
+  x aaaa "aaaaaaaa! aaaaa aa aaaaaaaa aaaa a aaaaaa aaaa aaaaa, aaa_aaaaaa aaa aaaaaaaaa_aaaaa" aa
+  x   aa_aaaaaa = [
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1_111_111,
+  x       aaaaaaaaa_aaaaa: 1.1,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 11_111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1.1
+  x    )
+  x   ]
+  x   aaaaaaaa_aaaaaa = [
+  x     aaaaa(:aaaaaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 11.111111111111111,
+  x       aaaaaaaaaaa: 1111.111111111111
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 11.1,
+  x       aaaaaaaaaaa: 1111.1
+  x    )
+  x   ]
+  x   aaaaaaaa_aa = :aaaaaa
+  x   aaaaaaaa_aa_aaaa_aaaa = aaaaa
+
+  x   aaaa_aaaaaa = aaaaaaaa_aaaa_aaaaaa(aaaaa: 11)
+  x   aaaa_aaaaaa_aaaaa = aaaaa(:aaaa_aaaaaa_aaaaa, aaaa: "aa", aaaaaa_aaaaaa: 111)
+  x   aaaaaa_aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+  x     aa_aaaaaaaa: aaaa,
+  x     aaaaaa_aaaaaa: [aaaa_aaaaaa_aaaaa],
+  x     aaaa_aa: 1
+  x   )
+  x   aaaa_aaaaaa << aaaaaa_aaaa_aaaaa
+
+  x   aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+  x     aa_aaaaaa: aa_aaaaaa,
+  x     aaaaaaaa_aaaaaa: aaaaaaaa_aaaaaa,
+  x     aaaa_aaaaaa: aaaa_aaaaaa,
+  x     a_aaaaa_aaaaaa: { "aa" => 1.11111, "aa" => 1.1111, "aaaaaaa" => 1.111111111111111111 },
+  x     a_aaaaa_aaaaaa: { "aaaaaaa" => 1 },
+  x     aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+  x     aaaa_aaaaa: 11
+  x   )
+  x   aaaaaa = 11_111_111
+
+  x   aaaaaaaa_aaaaaa_aaaaaaaaaa = {
+  x     aaaa: {
+  x       aa: 111.1111111111111,
+  x       aa: 111.1111111111111
+  x     },
+  x     aaaaa: {
+  x       aa: -111.1111111111111,
+  x       aa: -111.1111111111111
+  x     }
+  x   }.aaaa_aaaaaaaaa_aaaa
+  x   aaaaaaaa_aaaaa_aaaa = {
+  x     aa: {
+  x       aaaaa: 111_111.11111111111,
+  x       aaaaa: 11
+  x     },
+  x     aa: {
+  x       aaaaa: 1_111_111.1111111111,
+  x       aaaaa: 111
+  x     }
+  x   }.aaaa_aaaaaaaaa_aaaa
+  x   aaaaaaaa_aaaaaaa = { aa: 11_111_111, aa: 1_111_111, aaaaa: 11_111_111 }
+  x   aaaaaaaa_aaaa = {"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>11111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111.11111111111111,"aaaaaaaa"=>11.111111111,"aaaaaa"=>111,"aaaaaaaa"=>aaaa,"aaaaaaaaaaaa"=>111}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.11111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.11111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1111111.1111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>1111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1111111.111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>1111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>111111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>111111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}}}
+
+  x   aaaaaaa = aaaaaaaaaaaaa.aaa
+  x   aaaaaaa.aaaaaaaa!(
+  x     aaaaaa: [aaaa_aaaaa],
+  x     aaaaaaaa_aa: aaaaaaaa_aa,
+  x     aaaaaaaa_aa_aaaa_aaaa: aaaaaaaa_aa_aaaa_aaaa,
+  x     aaaaaa: aaaaaa
+  x   )
+
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaaaa[:aaaaa], aaaaaaa.aaaaaa)
+  x   aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aaaaaaa.aaaaaaaa_aaaaa_aaaaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaaa_aaaaaaaaaa, aaaaaaa.aaaaaa_aaaaaaaaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaa_aaaa, aaaaaaa.aaaaa_aaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaa, aaaa_aaaaa)
+  x aaa
+
+  x aaaa "aaaaaaaa! aaaaa aa aaaaaaaa aaaa aaaaaaaaaa aa a aaaaaa" aa
+  x   aa_aaaaaa = [
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x    )
+  x   ]
+  x   aaaaaaaa_aa = :aaa
+  x   aaaaaaaa_aa_aaaa_aaaa = aaaaa
+  x   aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+  x     aa_aaaaaa: aa_aaaaaa,
+  x     aaaaaaaa_aaaaaa: aaaaaaa_aaaaaaaa_aaaaaa,
+  x     aaaa_aaaaaa: aaaaaaaa_aaaa_aaaaaa(aaaaa: 11),
+  x     a_aaaaa_aaaaaa: { "aa" => 1.11111, "aa" => 1.1111, "aaaaaaa" => 1.111111111111111111 },
+  x     a_aaaaa_aaaaaa: { "aaaaaaa" => 1 },
+  x     aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+  x     aaaa_aaaaa: 11
+  x   )
+  x   aaaaaa = 111_111
+
+  x   aaaaaaaa_aaaaaa_aaaaaaaaaa = {
+  x     aaaa: {
+  x       aa: 1111.111111111,
+  x       aa: 1111.1111111111111,
+  x       aa: 111_111.111111111
+  x     },
+  x     aaaaa: {
+  x       aa: 1,
+  x       aa: 1,
+  x       aa: -11_111.11111111111
+  x     }
+  x   }.aaaa_aaaaaaaaa_aaaa
+  x   aaaaaaaa_aaaaa_aaaa = {
+  x     aa: {
+  x       aaaaa: 1,
+  x       aaaaa: 1
+  x     },
+  x     aa: {
+  x       aaaaa: 1,
+  x       aaaaa: 1
+  x     },
+  x     aa: {
+  x       aaaaa: 1111.111111111111,
+  x       aaaaa: 11
+  x     }
+  x   }.aaaa_aaaaaaaaa_aaaa
+  x   aaaaaaaa_aaaaaaa = {
+  x     aa:          1,
+  x     aa:          1,
+  x     aa:    111_111,
+  x     aaaaa: 111_111
+  x   }
+  x   aaaaaaaa_aaaa = {"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1111.1111111111111,"aaaaaaaa"=>111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1111.111111111111,"aaaaaaaa"=>111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>1111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1111.111111111111,"aaaaaaaa"=>1111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>1111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1111.111111111111,"aaaaaaaa"=>1111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1111.11111111111,"aaaaaaaa"=>111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1111.1111111111111,"aaaaaaaa"=>111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>1111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1111.111111111111,"aaaaaaaa"=>1111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>1111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>1111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>11111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>1111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>1111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>1111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1111.111111111111,"aaaaaaaa"=>1111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>1111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1111.111111111111,"aaaaaaaa"=>1111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>1111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>1111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>11111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>11111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>11111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>1111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>1111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>1111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>1111.111111111111,"aaaaaaaa"=>1111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}}} # aaaaaaa:aaaaaaa aaa
+
+  x   aaaaaaa = aaaaaaaaaaaaa.aaa
+  x   aaaaaaa.aaaaaaaa!(
+  x     aaaaaa: [aaaa_aaaaa],
+  x     aaaaaaaa_aa: aaaaaaaa_aa,
+  x     aaaaaaaa_aa_aaaa_aaaa: aaaaaaaa_aa_aaaa_aaaa,
+  x     aaaaaa: aaaaaa
+  x   )
+
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaaaa[:aaaaa], aaaaaaa.aaaaaa)
+  x   aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aaaaaaa.aaaaaaaa_aaaaa_aaaaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaaa_aaaaaaaaaa, aaaaaaa.aaaaaa_aaaaaaaaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaa_aaaa, aaaaaaa.aaaaa_aaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaa, aaaa_aaaaa)
+  x aaa
+
+  x aaaa "aaaaaaaa! aaaaa aa aaaaaaaa aaaa aaaaaaaaaa aaaa aaaaaaaaaa aa a aaaaaa" aa
+  x   aa_aaaaaa = [
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 111_111,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 1,
+  x       aaaaaaaaa_aaaaa: 1.11,
+  x       aa_aaaaaaaa: aaaa,
+  x       aaa_aaaaaa: 1
+  x     )
+  x   ]
+  x   aaaaaaaa_aaaaaa = [
+  x     aaaaa(:aaaaaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 11.111111111111111,
+  x       aaaaaaaaaaa: 11_111.111111111111
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 11.111111111111111,
+  x       aaaaaaaaaaa: 1111.1111111111111
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 11.1,
+  x       aaaaaaaaaaa: 1111.11
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 11,
+  x       aaaaaaaaaaa: 1111.11111
+  x     ),
+  x     aaaaa(:aaaaaaaa_aaaaa,
+  x       aaaa: "aa",
+  x       aaaaaa: 11.11111111111111,
+  x       aaaaaaaaaaa: 1111.1
+  x     )
+  x   ]
+  x   aaaaaaaa_aa = :aaaaaa
+  x   aaaaaaaa_aa_aaaa_aaaa = aaaaa
+  x   aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+  x     aa_aaaaaa: aa_aaaaaa,
+  x     aaaaaaaa_aaaaaa: aaaaaaaa_aaaaaa,
+  x     aaaa_aaaaaa: aaaaaaaa_aaaa_aaaaaa(aaaaa: 11),
+  x     a_aaaaa_aaaaaa: { "aa" => 1.11111, "aa" => 1.1111, "aaaaaaa" => 1.111111111111111111 },
+  x     a_aaaaa_aaaaaa: { "aaaaaaa" => 1 },
+  x     aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+  x     aaaa_aaaaa: 11
+  x   )
+  x   aaaaaa = 1_111_111
+
+  x   aaaaaaaa_aaaaaa_aaaaaaaaaa = {
+  x     aaaa: {
+  x       aa: 1111.111111111111,
+  x       aa: 1111.1111111111111,
+  x       aa: 1111.111111111111,
+  x       aa: 1111.111111111111,
+  x       aa: 1111.1111111111
+  x     },
+  x     aaaaa: {
+  x       aa: 1,
+  x       aa: -1111.111111111111,
+  x       aa: -1111.1111111111111,
+  x       aa: -1111.111111111111,
+  x       aa: -1111.111111111111
+  x     }
+  x   }.aaaa_aaaaaaaaa_aaaa
+  x   aaaaaaaa_aaaaa_aaaa = {
+  x     aa: {
+  x       aaaaa: 1,
+  x       aaaaa: 1
+  x     },
+  x     aa: {
+  x       aaaaa: 11_111.111111111111,
+  x       aaaaa: 11
+  x     },
+  x     aa: {
+  x       aaaaa: 111_111.11111111111,
+  x       aaaaa: 11
+  x     },
+  x     aa: {
+  x       aaaaa: 111_11.111111111111,
+  x       aaaaa: 11
+  x     },
+  x     aa: {
+  x       aaaaa: 111_11.11111111111,
+  x       aaaaa: 11
+  x     }
+  x   }.aaaa_aaaaaaaaa_aaaa
+  x   aaaaaaaa_aaaaaaa = {
+  x     aa:            1,
+  x     aa:      111_111,
+  x     aa:    1_111_111,
+  x     aa:      111_111,
+  x     aa:    1_111_111,
+  x     aaaaa: 1_111_111
+  x   }
+  x   aaaaaaaa_aaaa = {"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.1111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"1"=>{"aaaa"=>1,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.1111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.1111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.11111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.11111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.111111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaa,"aaaaaaaaa"=>111111.11111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>11111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>111111,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}},"11"=>{"aaaa"=>11,"aaaaaaaa"=>aaaaa,"aaaaaaaaa"=>111111.111111111,"aaaaaaa"=>{"aa"=>{"aaaaaaaaaaaa"=>1,"aaaaaaaa"=>1,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.1111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa},"aa"=>{"aaaaaaaaaaaa"=>11111.11111111111,"aaaaaaaa"=>11111.111111111,"aaaaaa"=>1,"aaaaaaaa"=>aaaaa,"aaaaaaaaaaaa"=>aaa}}}} # aaaaaaa:aaaaaaa aaa
+
+  x   aaaaaaa = aaaaaaaaaaaaa.aaa
+  x   aaaaaaa.aaaaaaaa!(
+  x     aaaaaa: [aaaa_aaaaa],
+  x     aaaaaaaa_aa: aaaaaaaa_aa,
+  x     aaaaaaaa_aa_aaaa_aaaa: aaaaaaaa_aa_aaaa_aaaa,
+  x     aaaaaa: aaaaaa,
+  x     aaaa_aaaaaaaaaa: aaaa
+  x   )
+
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaaaa[:aaaaa], aaaaaaa.aaaaaa)
+  x   aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aaaaaaa.aaaaaaaa_aaaaa_aaaaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaaa_aaaaaaaaaa, aaaaaaa.aaaaaa_aaaaaaaaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaaa_aaaa, aaaaaaa.aaaaa_aaaa)
+  x   aaaaaa_aaaaa(aaaaaaaa_aaaa, aaaa_aaaaa)
+  x aaa
+
+  # aaaa: aaa a aaaa aaa aaaaaaaa aaaaaa.
+
+  aaaa "aaaa_aaaa_aaaaaa aaaaa aa aaaaaaaa" aa
+    aa_aaaaaa = [
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+     )
+    ]
+    aaaa_aaaa = {
+      "aa" => 1_111_111.111111111,
+      "aa" => 111_111.11111111111,
+      "aa" => 1_111_111.1111111111
+    }
+    aaa_aaaa = {
+      "aa" => 1_111_111.111111111,
+      "aa" => 111_111.111111111,
+      "aa" => 1_111_111.1111111111
+    }
+    aaaaaa = 11_111_111
+
+    aaaaaaaa_aa = "aa"
+
+    aaaaaa_aa = aaaaaaaaaaaaa.aaa.aaaa(
+      :aaaa_aaaa_aaaaaa,
+      aa_aaaaaa: aa_aaaaaa,
+      aaaaaaaa_aa: :aaaaaa,
+      aaaa_aaaa: aaaa_aaaa,
+      aaa_aaaa: aaa_aaaa,
+      aaaaaa: aaaaaa
+    ).aaaa
+
+    aaaaaa_aaaaa(aaaaaaaa_aa, aaaaaa_aa)
+  aaa
+
+  aaaa "aaaaaaa_aaa_aaa_aaaa_aaaa aaaaa aa aaaaaaaa" aa
+    ## aaaa 1 ###############################################################
+
+    aa_aaaaaa = [
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+     )
+    ]
+    aaaaaa_aaaa = 11
+    aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+      aa_aaaaaa: aa_aaaaaa,
+      aaaaaaaa_aaaaaa: aaaaaaa_aaaaaaaa_aaaaaa,
+      aaaa_aaaaaa: aaaaaaaa_aaaa_aaaaaa(aaaaa: 11),
+      a_aaaaa_aaaaaa: { "aa" => 1.11111, "aa" => 1.1111, "aaaaaaa" => 1.111111111111111111 },
+      a_aaaaa_aaaaaa: { "aaaaaaa" => 1 },
+      aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+      aaaa_aaaaa: 11
+    )
+
+    aaaaaaaa_aaaaaaa = {
+      "aaaaaaa" => {
+        "aa" => 1_111_111,
+        "aa" => 1_111_111,
+        "aa" => 1_111_111
+      },
+      "aaaa_aaaa" => {
+        "aa" => 1_111_111.111111111,
+        "aa" => 111_111.11111111111,
+        "aa" => 1_111_111.1111111111
+      },
+      "aaa_aaaa" => {
+        "aa" => 1_111_111.111111111,
+        "aa" => 111_111.111111111,
+        "aa" => 1_111_111.1111111111
+      }
+    }
+
+    # aaaaaa aaaaa aaa'a aaa aaaaaaaa.
+    aaaaaaa.aaaa_aaaaaa(aa_aaaaaa)
+
+    aaaaaa_aaaaaaa = aaaaaaaaaaaaa.aaa.aaaa(
+      :aaaaaaa_aaa_aaa_aaaa_aaaa,
+      aaaaaa_aaaa: aaaaaa_aaaa,
+      aaaaa: aaaa_aaaaa,
+      aaaaaaaa_aa_aaaa_aaaa: aaaaa
+    )
+
+    aaaaaaaa_aaaaaaa.aaaa aa |a, aaaaaaaa_aaaaaa|
+      aaaaaa_aaaaa(aaaaaaaa_aaaaaa, aaaaaa_aaaaaaa[a])
+    aaa
+
+    # aaaaaa aaa aaaa_aaaaa aaa aaa aaaaaaaa.
+    aaaaaa_aaa(aaaa_aaaaa.aaaaaaa?)
+
+
+    ## aaaa 1 ###############################################################
+
+    aa_aaaaaa = [
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+     )
+    ]
+    aaaaaa_aaaa = 11
+    aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+      aa_aaaaaa: aa_aaaaaa,
+      aaaaaaaa_aaaaaa: aaaaaaa_aaaaaaaa_aaaaaa,
+      aaaa_aaaaaa: aaaaaaaa_aaaa_aaaaaa(aaaaa: 11),
+      a_aaaaa_aaaaaa: { "aa" => 1.11111, "aa" => 1.1111, "aaaaaaa" => 1.111111111111111111 },
+      a_aaaaa_aaaaaa: { "aaaaaaa" => 1 },
+      aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+      aaaa_aaaaa: 11
+    )
+
+    aaaaaaaa_aaaaaaa = {
+      "aaaaaaa" => {
+        "aa" => 1_111_111,
+        "aa" => 1_111_111,
+        "aa" => 1_111_111
+      },
+      "aaaa_aaaa" => {
+        "aa" => 1_111_111.111111111,
+        "aa" => 111_111.11111111111,
+        "aa" => 1_111_111.1111111111
+      },
+      "aaa_aaaa" => {
+        "aa" => 1_111_111.111111111,
+        "aa" => 111_111.111111111,
+        "aa" => 1_111_111.1111111111
+      }
+    }
+
+    # aaaaaa aaaaa aaa'a aaa aaaaaaaa.
+    aaaaaaa.aaaa_aaaaaa(aa_aaaaaa)
+
+    aaaaaa_aaaaaaa = aaaaaaaaaaaaa.aaa.aaaa(
+      :aaaaaaa_aaa_aaa_aaaa_aaaa,
+      aaaaaa_aaaa: aaaaaa_aaaa,
+      aaaaa: aaaa_aaaaa,
+      aaaaaaaa_aa_aaaa_aaaa: aaaaa
+    )
+
+    aaaaaaaa_aaaaaaa.aaaa aa |a, aaaaaaaa_aaaaaa|
+      aaaaaa_aaaaa(aaaaaaaa_aaaaaa, aaaaaa_aaaaaaa[a])
+    aaa
+
+    # aaaaaa aaa aaaa_aaaaa aaa aaa aaaaaaaa.
+    aaaaaa_aaa(aaaa_aaaaa.aaaaaaa?)
+  aaa
+
+  aaaa "aaaaaa_aaaaaa_aaaaaaaaa! aaaaa aa aaaaaaaa" aa
+    ## aaaa 1 ###############################################################
+
+    aa_aaaaaa = [
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 11_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 11_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 11_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+     )
+    ]
+    aaaaaa_aaaa = 1_111_111
+    aaaaaaaa_aa = :aaaaaa
+    aaaaaaaa_aaaaa = 11
+    aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+      aa_aaaaaa: aa_aaaaaa,
+      aaaaaaaa_aaaaaa: aaaaaaa_aaaaaaaa_aaaaaa,
+      aaaa_aaaaaa: aaaaaaaa_aaaa_aaaaaa(aaaaa: 11),
+      a_aaaaa_aaaaaa: { "aa" => 1.11111, "aa" => 1.1111, "aaaaaaa" => 1.111111111111111111 },
+      a_aaaaa_aaaaaa: { "aaaaaaa" => 1 },
+      aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+      aaaa_aaaaa: 11
+    )
+    aaaaaa = 11_111_111
+
+    aaaaaaaa_aaaaaaa = { aa: 1_111_111, aa: 1_111_111, aa: 1_111_111 }
+    aaaaaaaa_aaaaaa = { "aa" => 1, "aa" => 1, "aa" => 1 }
+
+    aaaaaa_aaaaaa = aaaaaaaaaaaaa.aaa.aaaa(
+      :aaaaaa_aaaaaa_aaaaaaaaa!,
+      aaaaaa_aaaa:     aaaaaa_aaaa,
+      aaaaa:           aaaa_aaaaa,
+      aaaaaaaa_aa:     aaaaaaaa_aa,
+      aaaaaaaa_aa_aaaa_aaaa: aaaaa,
+      aaaaaaaa_aaaaa:  aaaaaaaa_aaaaa,
+      aaaaaa:          aaaaaa
+    )
+
+    aaaaaa_aaaaa(aaaaaaaa_aaaaaa, aaaaaa_aaaaaa)
+    aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aa_aaaaaa)
+
+
+    ## aaaa 1 ###############################################################
+
+    aa_aaaaaa = [
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+      ),
+      aaaaa(:aaaaaaaa_aaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 1_111_111,
+        aaaaaaaaa_aaaaa: 1.11,
+        aa_aaaaaaaa: aaaa,
+        aaa_aaaaaa: 1
+     )
+    ]
+    aaaaaa_aaaa = 11
+    aaaaaaaa_aa = :aaaaaa
+    aaaaaaaa_aaaaa = 11
+    aaaa_aaaaa = aaaaa(:aaaa_aaaaa,
+      aa_aaaaaa: aa_aaaaaa,
+      aaaaaaaa_aaaaaa: aaaaaaa_aaaaaaaa_aaaaaa,
+      aaaa_aaaaaa: aaaaaaaa_aaaa_aaaaaa(aaaaa: 11),
+      a_aaaaa_aaaaaa: { "aa" => 1.11111, "aa" => 1.1111, "aaaaaaa" => 1.111111111111111111 },
+      a_aaaaa_aaaaaa: { "aaaaaaa" => 1 },
+      aaaaa_aaaa: aaaa.aaaaa("1111-11-11"),
+      aaaa_aaaaa: 11
+    )
+    aaaaaa = 11_111_111
+
+    aaaaaaaa_aaaaaaa = { aa: 1_111_111, aa: 1_111_111, aa: 1_111_111 }
+    aaaaaaaa_aaaaaa = { "aa" => 11 }
+
+    aaaaaa_aaaaaa = aaaaaaaaaaaaa.aaa.aaaa(
+      :aaaaaa_aaaaaa_aaaaaaaaa!,
+      aaaaaa_aaaa:     aaaaaa_aaaa,
+      aaaaa:           aaaa_aaaaa,
+      aaaaaaaa_aa:     aaaaaaaa_aa,
+      aaaaaaaa_aa_aaaa_aaaa: aaaaa,
+      aaaaaaaa_aaaaa:  aaaaaaaa_aaaaa,
+      aaaaaa:          aaaaaa
+    )
+
+    aaaaaa_aaaaa(aaaaaaaa_aaaaaa, aaaaaa_aaaaaa)
+    aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aa_aaaaaa)
+  aaa
+
+
+  ###########################################################################
+  aaaaaaa ###################################################################
+  ###########################################################################
+
+  # aaaaaaa aaaa aaa aaaaaa aaaaaaa aaa aaaaa.
+  #
+  # @aaaaa [aaaaa<aaaaaaaaaaaaa>, aaaa{aaaaaa => aaaaaaaaaa}] aaaaaa_aaaaaaa
+  # @aaaaa [aaaa{aaaaaa => aaaaaaaaaa}] aaaaaaaa_aaaaaaa
+  aaa aaaaaa_aaaaaaa(aaaaaaaa_aaaaaaa, aaaaaa_aaaaaaa)
+    aaaaaaaaa_aaaa = aaaaaa_aaaaaaa.aaaa_aaaa_aaaaaa([]) aa |aaa, aaaa|
+      aaaaaaaa_aaaaaa, aaaaaa_aaaaaa = (
+        aa aaa.aaaaaaa_aa?(:aaaa)
+          aaaa = aaa.aaaa
+          [aaaaaaaa_aaaaaaa[aaaa.aa_aaa], aaa.aaaaaa]
+        aaaa
+          aaaa = aaa.aaaaa
+          [aaaaaaaa_aaaaaaa[aaaa.aa_aaa], aaa.aaaaaa]
+        aaa
+      )
+      aaaaaa aaaaaaaa_aaaaaa == aaaaaa_aaaaaa
+        aaaa << "aaaaaa aaaaaaaa aaa #{aaaa} (aaaaaaaa: #{aaaaaaaa_aaaaaa.aa_a}, aaaaaa: #{aaaaaa_aaaaaa.aa_a})"
+      aaa
+    aaa
+
+    aaaaaa(aaaaaaaaa_aaaa.aaaaa?, aaaaaaaaa_aaaa.aaaa("\a"))
+  aaa
+
+  # aaaaaaa aaaa aaa aaaaaa aaaaa aaa aaa aaaaaaaa aaaaaa.
+  #
+  # @aaaaa [aaaa] aaaaaaaa_aaaa
+  # @aaaaa [aaaaaaaaa] aaaaaa_aaaaa
+  aaa aaaaaa_aaaaa(aaaaaaaa_aaaa, aaaaaa_aaaaa)
+    # aaaa: aaa'a aaaaaa aa aaaaaaaaaa aaaaaaa.
+    # aaaa: aaaaa aaaa aaaaaa_aaaaa aaaa aaaa_aaaaa_aaaa.
+    aaaaaa_aaaaa(aaaaaaaa_aaaa, aaaaaa_aaaaa.aa_aaaa_aaaa)
+  aaa
+
+  aaa aaaaaaa_aaaaaaaa_aaaaaa
+    [
+      aaaaa(:aaaaaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 11.111111111111111,
+        aaaaaaaaaaa: 1111.111111111111
+      ),
+      aaaaa(:aaaaaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 11.1,
+        aaaaaaaaaaa: 1111
+      ),
+      aaaaa(:aaaaaaaa_aaaaa,
+        aaaa: "aa",
+        aaaaaa: 11.1,
+        aaaaaaaaaaa: 1111.1
+     )
+    ]
+  aaa
+
+  # @aaaaa [aaaaaaa] aaaaa
+  aaa aaaaaaaa_aaaa_aaaaaa(aaaaa:)
+    # aaaaaaaa aaaaa aa aaaaaa aa aaaaa
+    (1..aaaaa).aaaa_aaaa_aaaaaa([]) aa |aaaa_aa, aaaaaa|
+      aaaa aa ((aaaa_aa - 1) % 1) < 1
+
+      aaaaaa << aaaaa(:aaaa_aaaaa, aa_aaaaaaaa: aaaaa, aaaa_aa: aaaa_aa)
+    aaa
+  aaa
+aaa
+
+# aaaaaaa:aaaaaa aaaaaa/aaaaaaaaaaaaaaa
+# aaaaaaa:aaaaaa aaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+# aaaaaaa:aaaaaa aaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+# aaaaaaa:aaaaaa aaaaaaa/aaaaaaaaaaa, aaaaaaa/aaaaaaaaaaa
+# aaaaaaa:aaaaaa aaaaa/aaaaaaaaaaaaa
