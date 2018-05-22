@@ -4,3 +4,5 @@
 \.DS_Store
 \test_folder
 \Ignore
+[Bb]in/
+[Oo]bj/
