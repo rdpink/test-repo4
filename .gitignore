@@ -4,3 +4,5 @@
 \test_folder
 \Ignore
 datosEscenario\.txt
+
+*.csv
